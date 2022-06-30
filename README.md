@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋🏼 soy Gabi 👩🏻.
+
+Soy una Ingeniera en Sistemas en proceso y actualmente además estoy estudiando: Desarrollo Web y JS 💪🏼.
+
+🕵 Trabajo en la Universidad Tecnológica Nacional FRVM. 
 
 <!--
 **gabrielaperez86/gabrielaperez86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
