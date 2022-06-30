@@ -1,6 +1,6 @@
 ### Hi there 👋🏼 soy Gabi 👩🏻.
 
-Soy una Ingeniera en Sistemas en proceso y actualmente además estoy estudiando: Desarrollo Web y JS 💪🏼.
+Ingeniera en Sistemas en proceso y actualmente estoy estudiando: Desarrollo Web y JS 💪🏼.
 
 🕵 Trabajo en la Universidad Tecnológica Nacional FRVM. 
 
